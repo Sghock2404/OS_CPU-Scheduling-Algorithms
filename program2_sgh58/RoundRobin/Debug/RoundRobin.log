@@ -1,0 +1,4 @@
+﻿  RoundRobin.cpp
+C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program2cpp\RoundRobin\RoundRobin.cpp(92,44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program2cpp\RoundRobin\RoundRobin.cpp(93,36): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  RoundRobin.vcxproj -> C:\Users\hocka\OneDrive\Desktop\School\Fall_2021\Operating Systems\program2cpp\RoundRobin\Debug\RoundRobin.exe
