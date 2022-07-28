@@ -1,4 +1,4 @@
-# OS_project2_CPUScheduling_Algorithms
+# CPU Scheduling Algorithms
 
 1 Overview 
 In this project, you are going to build a “discrete-time event simulator” (see site below) for a 
